@@ -1,6 +1,6 @@
 # Check whether a number is an Armstrong number
 
-num = int(input("Enter a number: "))
+num = 5
 
 temp = num
 sum_of_powers = 0

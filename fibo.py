@@ -1,6 +1,6 @@
 # Fibonacci Series up to n terms
 
-n = int(input("Enter number of terms: "))
+n = 9
 
 a, b = 0, 1
 
